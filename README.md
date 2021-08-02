@@ -20,7 +20,7 @@
 
 
 ### Error Fixing
-- [x] ***pip  install -r colorama***
+- [x] ***pip  install colorama***
 
 
 
