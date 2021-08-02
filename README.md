@@ -26,7 +26,7 @@
 
 
 
-- 📫 How to reach me:  [@Discord - Frustrated#1890]
+- 📫 How to reach me:  [@Discord - PwnTime]
 
 
 ***donot use for illeagal activities***
