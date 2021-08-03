@@ -13,7 +13,7 @@
 -  provide combo hashed list in email:pass format
 -  can unhash md5, sha1, sha224, sha256, sha384, sha512
 -  use powerful wordlists like crackstation wordlist
--  Donot skid this also you guys need to know this can be skided [donot by tools that skided from this]
+-  Donot skid this also you guys need to know this can be skided [donot buy tools that skided from this]
 
 
 
